@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    sturing (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.4.3)
+    rake (10.4.2)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  bundler (~> 1.13)
+  minitest (~> 5.0)
+  rake (~> 10.0)
+  sturing!
+
+BUNDLED WITH
+   1.13.6
